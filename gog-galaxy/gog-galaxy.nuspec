@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>gog-galaxy</id>
+    <title>GOG Galaxy</title>
+    <version>1.0.2.958</version>
+    <authors>Good Old Games</authors>
+    <owners>Goog Old Games</owners>
+    <summary>GOG GALAXY is a fully optional client to install, play and update your games.</summary>
+    <description>GOG GALAXY is a fully optional client to install, play and update your games. It also offers online multiplayer, achievements, chat, game-time tracking and more - but it’s up to you which features you want to use.</description>
+    <projectUrl>https://www.gog.com/galaxy</projectUrl>
+    <tags>gog-galaxy gog</tags>
+    <copyright>2015</copyright>
+    <licenseUrl>https://www.gog.com/support/policies/gog_user_agreement</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>gog-galaxy.png</iconUrl>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

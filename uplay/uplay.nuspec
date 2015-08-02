@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>uplay</id>
+    <title>Uplay</title>
+    <version>7.3.0.4163</version>
+    <authors>Ubisoft</authors>
+    <owners>Ubisoft</owners>
+    <summary>Uplay is a cross-platform service available in more than 50 games.</summary>
+    <description>Uplay is a cross-platform service available in more than 50 games. It enables actions, rewards and social interactions. With Uplay, the more you play, the more you win!</description>
+    <projectUrl>https://uplay.ubi.com/</projectUrl>
+    <!--<projectSourceUrl></projectSourceUrl>
+    <docsUrl></docsUrl>
+    <mailingListUrl></mailingListUrl>
+    <bugTrackerUrl></bugTrackerUrl>-->
+    <tags>uplay games ubisoft</tags>
+    <copyright>2015</copyright>
+    <licenseUrl>http://localhost</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/uplay.png</iconUrl>-->
+    <releaseNotes></releaseNotes>
+    <!--<provides></provides>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

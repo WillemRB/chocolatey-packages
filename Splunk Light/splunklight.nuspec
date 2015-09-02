@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>splunklight</id>
     <title>Splunk Light</title>
-    <version>6.2.3</version>
+    <version>6.2.5</version>
     <authors>Splunk</authors>
     <owners>Splunk Inc</owners>
     <summary>Splunk Light is a comprehensive solution for small IT environments that automates log search and analysis. It speeds tactical troubleshooting by gathering real-time log data from your distributed systems in one place to enable powerful search queries, dynamic alerts and reporting dashboards for real-time analysis.</summary>

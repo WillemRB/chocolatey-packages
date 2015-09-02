@@ -3,8 +3,8 @@
 $packageName = 'Splunk Light'
 $registryUninstallerKeyName = 'SplunkLight'
 $installerType = 'msi'
-$url = 'https://download.splunk.com/products/splunk_light/releases/6.2.3/windows/splunklight-6.2.3-264376-x86-release.msi'
-$url64 = 'https://download.splunk.com/products/splunk_light/releases/6.2.3/windows/splunklight-6.2.3-264376-x64-release.msi'
+$url = 'https://download.splunk.com/products/splunk_light/releases/6.2.5/windows/splunklight-6.2.5-272645-x86-release.msi'
+$url64 = 'https://download.splunk.com/products/splunk_light/releases/6.2.5/windows/splunklight-6.2.5-272645-x64-release.msi'
 $silentArgs = '/quiet'
 $validExitCodes = @(0)
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"

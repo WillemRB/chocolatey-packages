@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>hextcg</id>
+    <title>HEX Trading Card Game</title>
+    <version>1.0.0.0</version>
+    <authors>Hex Entertainment and Gameforge 4D GmbH</authors>
+    <owners>Cryptozoic</owners>
+    <summary>HEX is a Trading Card Game</summary>
+    <description>HEX combines the amazing community and roleplaying aspects of a Massively Multiplayer Online Role Playing Game (MMO) with the compelling collectible and strategic gameplay of a Trading Card Game (TCG) to create an entirely new category of a game, the MMO/TCG.</description>
+    <projectUrl>https://www.hextcg.com/</projectUrl>
+    <tags>hextcg tcg card-game</tags>
+    <copyright>2015</copyright>
+    <licenseUrl>https://www.hextcg.com/terms-and-conditions/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/hextcg.png</iconUrl>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

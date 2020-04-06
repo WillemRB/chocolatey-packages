@@ -38,7 +38,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <authors>Microsoft</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator-release-notes</projectUrl>
-    <iconUrl>https://s4.aconvert.com/convert/p3r68-cdx67/aj8ek-9h0hp-004.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/WillemRB/chocolatey-packages/6ac082cb02e02c324fb74efd082010a7abde50b4/AzureCosmosDBEmulator/cosmosdb-icon.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
     <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
@@ -49,7 +49,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>azurecosmosdbemulator azure cosmos emulator</tags>
     <summary>Azure Cosmos DB Emulator</summary>
-    <description>Google it</description>
+    <description>The Azure Cosmos Emulator provides a local environment that emulates the Azure Cosmos DB service for development purposes.</description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
     <!-- =============================== -->      
 
